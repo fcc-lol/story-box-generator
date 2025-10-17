@@ -200,9 +200,9 @@ const PageData PAGES[] = {
     9
   },
   {
-    "...this: “The",
+    "...this: \"The",
     "wind will know where",
-    "to take it.”",
+    "to take it.\"",
     "",
     7
   },
@@ -319,14 +319,14 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“Please,” he said.",
+    "\"Please,\" he said.",
     "",
     "",
     "",
     4
   },
   {
-    "“You must send this",
+    "\"You must send this",
     "one.",
     "",
     "",
@@ -342,7 +342,7 @@ const PageData PAGES[] = {
   {
     "She's gone, and I",
     "promised her I'd",
-    "tell her something.”",
+    "tell her something.\"",
     "Mira took the...",
     9
   },
@@ -480,7 +480,7 @@ const PageData PAGES[] = {
     8
   },
   {
-    "...“Remember.”",
+    "...\"Remember.\"",
     "The tiny flame",
     "steadied.",
     "",
@@ -629,12 +629,12 @@ const PageData PAGES[] = {
   {
     "When they thanked",
     "her, she only smiled",
-    "and said, “The wind",
+    "and said, \"The wind",
     "remembers better...",
     10
   },
   {
-    "...than we do.”",
+    "...than we do.\"",
     "From that year",
     "onward, no storm or",
     "stillness ever...",

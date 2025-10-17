@@ -557,16 +557,16 @@ const PageData PAGES[] = {
     6
   },
   {
-    "“I can hear you,”",
+    "\"I can hear you,\"",
     "Taren murmured.",
     "",
     "",
     5
   },
   {
-    "“You've gone quiet,",
+    "\"You've gone quiet,",
     "but you're not",
-    "gone.” He sat at the",
+    "gone.\" He sat at the",
     "edge of the metal...",
     9
   },

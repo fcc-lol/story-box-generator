@@ -284,7 +284,7 @@ const PageData PAGES[] = {
     9
   },
   {
-    "...him, “Time",
+    "...him, \"Time",
     "isn't a river",
     "flowing forward-it's",
     "a wheel.",
@@ -293,7 +293,7 @@ const PageData PAGES[] = {
   {
     "You only think it",
     "moves because you're",
-    "walking on it.” That",
+    "walking on it.\" That",
     "notion consumed...",
     10
   },
@@ -634,7 +634,7 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“You finished it,”",
+    "\"You finished it,\"",
     "said the younger",
     "Elias, his voice",
     "threaded with...",
@@ -648,15 +648,15 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“You actually built",
+    "\"You actually built",
     "the thing I only",
-    "dreamed of.”",
+    "dreamed of.\"",
     "",
     7
   },
   {
-    "“I built what you",
-    "imagined,” the elder",
+    "\"I built what you",
+    "imagined,\" the elder",
     "replied softly, the",
     "corners of his...",
     9
@@ -669,9 +669,9 @@ const PageData PAGES[] = {
     4
   },
   {
-    "“But it didn't do",
+    "\"But it didn't do",
     "what we thought it",
-    "would.”",
+    "would.\"",
     "",
     6
   },
@@ -690,7 +690,7 @@ const PageData PAGES[] = {
     5
   },
   {
-    "“You can't mean",
+    "\"You can't mean",
     "that.",
     "",
     "",
@@ -712,21 +712,21 @@ const PageData PAGES[] = {
   },
   {
     "Do you know what",
-    "this means?”",
+    "this means?\"",
     "",
     "",
     5
   },
   {
-    "“It means,” said the",
-    "elder, “that time",
+    "\"It means,\" said the",
+    "elder, \"that time",
     "was never meant to",
     "be rewritten.",
     9
   },
   {
     "It was meant to be",
-    "understood.”",
+    "understood.\"",
     "",
     "",
     5
@@ -816,7 +816,7 @@ const PageData PAGES[] = {
     7
   },
   {
-    "“Then show me.",
+    "\"Then show me.",
     "",
     "",
     "",
@@ -824,7 +824,7 @@ const PageData PAGES[] = {
   },
   {
     "Show me how to hear",
-    "it.”",
+    "it.\"",
     "",
     "",
     4

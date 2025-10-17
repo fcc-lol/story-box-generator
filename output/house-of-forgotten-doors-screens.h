@@ -76,7 +76,7 @@ const PageData PAGES[] = {
   {
     "...beautifully in",
     "curling script:",
-    "“Lost Things.”",
+    "\"Lost Things.\"",
     "",
     7
   },
@@ -172,14 +172,14 @@ const PageData PAGES[] = {
     7
   },
   {
-    "She lifted one: “THE",
-    "STORY I NEVER TOLD.”",
-    "Another read: “THE",
+    "She lifted one: \"THE",
+    "STORY I NEVER TOLD.\"",
+    "Another read: \"THE",
     "LAST TIME SHE...",
     9
   },
   {
-    "...SMILED.” A",
+    "...SMILED.\" A",
     "shiver rippled down",
     "her skin.",
     "",
@@ -200,15 +200,15 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“Most visitors don't",
-    "find me so early,”",
+    "\"Most visitors don't",
+    "find me so early,\"",
     "it said.",
     "",
     7
   },
   {
-    "“But perhaps you",
-    "were meant to.” An",
+    "\"But perhaps you",
+    "were meant to.\" An",
     "old man appeared at",
     "the curve of the...",
     9
@@ -249,8 +249,8 @@ const PageData PAGES[] = {
     6
   },
   {
-    "“This house,” he",
-    "explained, “keeps",
+    "\"This house,\" he",
+    "explained, \"keeps",
     "what the world",
     "misplaces-not...",
     8
@@ -271,7 +271,7 @@ const PageData PAGES[] = {
   },
   {
     "...misplaced, or",
-    "erased by time.” His",
+    "erased by time.\" His",
     "hand brushed one of",
     "the doors...",
     9
@@ -284,14 +284,14 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“It is my duty to",
+    "\"It is my duty to",
     "keep them all",
     "contained until",
     "someone...",
     8
   },
   {
-    "...remembers.”",
+    "...remembers.\"",
     "",
     "",
     "",
@@ -326,17 +326,17 @@ const PageData PAGES[] = {
     5
   },
   {
-    "“This belongs to",
+    "\"This belongs to",
     "something you've",
-    "lost,” he murmured.",
+    "lost,\" he murmured.",
     "",
     7
   },
   {
-    "“You may choose one",
+    "\"You may choose one",
     "door, if you have",
     "courage enough to",
-    "open it.”",
+    "open it.\"",
     8
   },
   {
@@ -396,9 +396,9 @@ const PageData PAGES[] = {
     9
   },
   {
-    "...tag: “THE",
+    "...tag: \"THE",
     "MOMENT I STOPPED",
-    "BELIEVING.” Her",
+    "BELIEVING.\" Her",
     "fingers trembled...",
     8
   },
@@ -522,7 +522,7 @@ const PageData PAGES[] = {
     6
   },
   {
-    "“Can I stay?” she",
+    "\"Can I stay?\" she",
     "whispered to the",
     "empty field.",
     "",
@@ -536,7 +536,7 @@ const PageData PAGES[] = {
     7
   },
   {
-    "“No one can stay.",
+    "\"No one can stay.",
     "",
     "",
     "",
@@ -545,7 +545,7 @@ const PageData PAGES[] = {
   {
     "The past only opens",
     "its doors to remind",
-    "us that it existed.”",
+    "us that it existed.\"",
     "",
     8
   },
@@ -571,9 +571,9 @@ const PageData PAGES[] = {
     5
   },
   {
-    "“Most people leave",
+    "\"Most people leave",
     "and forget they've",
-    "ever been here,”",
+    "ever been here,\"",
     "said the...",
     8
   },
@@ -585,21 +585,21 @@ const PageData PAGES[] = {
     6
   },
   {
-    "“The mind protects",
+    "\"The mind protects",
     "itself that way.",
     "",
     "",
     5
   },
   {
-    "But you-” he tilted",
+    "But you-\" he tilted",
     "his head, eyes",
     "glinting like",
-    "candlelight-“you...",
+    "candlelight-\"you...",
     9
   },
   {
-    "...might not.”",
+    "...might not.\"",
     "",
     "",
     "",
@@ -679,11 +679,11 @@ const PageData PAGES[] = {
     "She turned it",
     "between her fingers",
     "and smiled softly,",
-    "whispering, “I...",
+    "whispering, \"I...",
     9
   },
   {
-    "...remember.”",
+    "...remember.\"",
     "",
     "",
     "",

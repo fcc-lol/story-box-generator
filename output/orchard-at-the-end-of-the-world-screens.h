@@ -221,14 +221,14 @@ const PageData PAGES[] = {
     8
   },
   {
-    "“Visitor,” it said.",
+    "\"Visitor,\" it said.",
     "",
     "",
     "",
     4
   },
   {
-    "“At last.” Aya rose,",
+    "\"At last.\" Aya rose,",
     "gripping her staff.",
     "",
     "",
@@ -249,7 +249,7 @@ const PageData PAGES[] = {
     6
   },
   {
-    "“Do not fear.",
+    "\"Do not fear.",
     "",
     "",
     "",
@@ -257,7 +257,7 @@ const PageData PAGES[] = {
   },
   {
     "You are within my",
-    "roots.”",
+    "roots.\"",
     "",
     "",
     4
@@ -298,7 +298,7 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“Who are you?”",
+    "\"Who are you?\"",
     "",
     "",
     "",
@@ -312,7 +312,7 @@ const PageData PAGES[] = {
     4
   },
   {
-    "“I am what the world",
+    "\"I am what the world",
     "grew to remember",
     "itself.",
     "",
@@ -322,7 +322,7 @@ const PageData PAGES[] = {
     "Gardener,",
     "seedkeeper,",
     "echo-names do not",
-    "matter anymore.”...",
+    "matter anymore.\"...",
     8
   },
   {
@@ -340,7 +340,7 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“When the last",
+    "\"When the last",
     "forests fell, the",
     "air forgot how to",
     "dream.",
@@ -348,7 +348,7 @@ const PageData PAGES[] = {
   },
   {
     "Someone had to",
-    "remind it.” Aya",
+    "remind it.\" Aya",
     "realized with awe",
     "that the woman...",
     8
@@ -403,10 +403,10 @@ const PageData PAGES[] = {
     4
   },
   {
-    "“Every bite returns",
+    "\"Every bite returns",
     "something that",
     "should never have",
-    "been lost.”",
+    "been lost.\"",
     8
   },
   {
@@ -481,9 +481,9 @@ const PageData PAGES[] = {
   },
   {
     "As they worked, Aya",
-    "asked, “What happens",
+    "asked, \"What happens",
     "when all the apples",
-    "are gone?” The...",
+    "are gone?\" The...",
     10
   },
   {
@@ -494,10 +494,10 @@ const PageData PAGES[] = {
     4
   },
   {
-    "“Then the world will",
+    "\"Then the world will",
     "remember",
     "everything-and begin",
-    "again.”",
+    "again.\"",
     8
   },
   {
@@ -536,14 +536,14 @@ const PageData PAGES[] = {
     5
   },
   {
-    "“It's beginning.”",
+    "\"It's beginning.\"",
     "She turned to Aya,",
     "her form already",
     "translucent.",
     8
   },
   {
-    "“You must take these",
+    "\"You must take these",
     "seeds beyond here.",
     "",
     "",
@@ -559,7 +559,7 @@ const PageData PAGES[] = {
   {
     "The earth will",
     "listen again if you",
-    "give it reason to.”",
+    "give it reason to.\"",
     "",
     7
   },

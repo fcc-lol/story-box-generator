@@ -347,7 +347,7 @@ const PageData PAGES[] = {
     8
   },
   {
-    "“You came back,” she",
+    "\"You came back,\" she",
     "said.",
     "",
     "",
@@ -557,9 +557,9 @@ const PageData PAGES[] = {
     5
   },
   {
-    "“Will you keep it,",
+    "\"Will you keep it,",
     "or will you join",
-    "it?” He hesitated.",
+    "it?\" He hesitated.",
     "",
     7
   },

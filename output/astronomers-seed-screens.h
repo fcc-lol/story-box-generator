@@ -305,15 +305,15 @@ const PageData PAGES[] = {
     7
   },
   {
-    "“What are you?” she",
+    "\"What are you?\" she",
     "asked one night",
     "beneath the spinning",
     "dome.",
     8
   },
   {
-    "“Where did you grow",
-    "from?”",
+    "\"Where did you grow",
+    "from?\"",
     "",
     "",
     5
@@ -557,9 +557,9 @@ const PageData PAGES[] = {
     8
   },
   {
-    "...unison: “The",
+    "...unison: \"The",
     "sky grows what it",
-    "remembers.” She woke",
+    "remembers.\" She woke",
     "certain that the...",
     9
   },
@@ -648,8 +648,8 @@ const PageData PAGES[] = {
     3
   },
   {
-    "“It's still",
-    "growing,” she would",
+    "\"It's still",
+    "growing,\" she would",
     "say, as though",
     "apologizing for a...",
     8
@@ -767,14 +767,14 @@ const PageData PAGES[] = {
     5
   },
   {
-    "“I don't study them",
+    "\"I don't study them",
     "anymore.",
     "",
     "",
     5
   },
   {
-    "I tend them.”",
+    "I tend them.\"",
     "",
     "",
     "",

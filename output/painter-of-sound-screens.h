@@ -195,8 +195,8 @@ const PageData PAGES[] = {
   {
     "She paused at the",
     "doorway and said,",
-    "“You painted how it",
-    "feels.” Those...",
+    "\"You painted how it",
+    "feels.\" Those...",
     9
   },
   {
@@ -312,16 +312,16 @@ const PageData PAGES[] = {
     6
   },
   {
-    "“I can hear",
+    "\"I can hear",
     "something behind",
-    "your paintings,” she",
+    "your paintings,\" she",
     "whispered.",
     8
   },
   {
-    "“It's like... the",
+    "\"It's like... the",
     "city remembering",
-    "itself.” Unsure what",
+    "itself.\" Unsure what",
     "she meant, Nilo...",
     9
   },
